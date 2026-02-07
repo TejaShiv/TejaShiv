@@ -18,19 +18,19 @@
 
 # 🚀 Featured Projects
 
-### 🔬 [IEEE Published Research - Honeypot Architecture](https://github.com/TejaShiv)
+###  [IEEE Published Research - Honeypot Architecture](https://github.com/TejaShiv)
 **Enhancing Network Security through Multi-layered Honeypot Architecture** - Published in international IEEE conference. Proposed multilayered defense framework combining honeypots with network monitoring tools for cyber threat detection and mitigation.
 
-### 🌍 [REST Country Data Platform](https://github.com/TejaShiv)
+###  [REST Country Data Platform](https://github.com/TejaShiv)
 Full-stack country information web application built with **React, TypeScript, and Go**. Features automated CI/CD pipeline with GitHub Actions and AWS App Runner deployment. Integrates React frontend with Go RESTful API using OpenAPI specification.
 
-### 🛡️ [VIAIT - Network Traffic Analysis Tool](https://github.com/xxTeJxx/Network-Analysis-and-Visualization)
+###  [VIAIT - Network Traffic Analysis Tool](https://github.com/xxTeJxx/Network-Analysis-and-Visualization)
 Interactive cybersecurity analysis tool visualizing large-scale network traffic data from CSE-CIC-IDS2018 dataset (16M+ records). Optimized data processing pipeline reducing analysis time from 30 minutes to under 2 minutes using Python and Pandas.
 
-### 🧠 [Mental Stress Detection Using Deep Learning](https://github.com/xxTeJxx/Mental-Stress-Detection)
+###  [Mental Stress Detection Using Deep Learning](https://github.com/xxTeJxx/Mental-Stress-Detection)
 Built CNN, RNN, and LSTM models using TensorFlow for text-based stress classification. Achieved 85% accuracy through ensemble majority voting on ISEAR dataset.
 
-### 🔐 [SecureFile - Encrypted File Sharing](https://github.com/xxTeJxx/SecureFile)
+###  [SecureFile - Encrypted File Sharing](https://github.com/xxTeJxx/SecureFile)
 Secure file storage application with end-to-end encryption (Fernet + SHA-256), blockchain-based integrity verification, and role-based access control built with Python, Flask, and SQLAlchemy.
 
 <hr />
