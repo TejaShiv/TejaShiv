@@ -65,14 +65,12 @@ Secure file storage application with end-to-end encryption (Fernet + SHA-256), b
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejaShiv&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejaShiv&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TejaShiv&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TejaShiv&theme=dark&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ---
 
