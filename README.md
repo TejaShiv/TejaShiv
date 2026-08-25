@@ -20,11 +20,14 @@
 
 # 🚀 Featured Projects
 
-### Agentic Test-Repair System
+### [Agentic Test-Repair System](https://github.com/TejaShiv/agentic-test-repair-system)
 An autonomous agent that reads failing test output, localizes the fault, generates a candidate patch via LLM calls, writes the fix, and reruns the suite to verify the repair. Built with **Python, Gemini API, and pytest**, with bounded retries and validation gates so no unverified model output reaches the codebase. Evaluated on the QuixBugs defect benchmark, where near-perfect pass rates surfaced training-data contamination and moved evaluation to a harder held-out suite.
 
 ### [Patent Search Engine](https://github.com/TejaShiv/patent-search-engine)
 Hybrid retrieval over 640 vehicle patents combining **BM25** keyword scoring, semantic embeddings, metadata filtering, and **cross-encoder re-ranking**. Benchmarked end to end, finding that retrieval pool size drives latency while metadata filters drive relevance.
+
+### [LearnTej — Generative AI Learning Portal](https://tejashiv.github.io/learntej)
+A free, self-paced generative AI curriculum hosted on my site: five sessions from first principles to shipped products, five guided workbooks that each end in a working build, and an 88-section topic library. Static site with local progress tracking, no gating and no sign-up.
 
 ### [REST Country Data Platform](https://github.com/TejaShiv/rest-country-platform)
 Full-stack country information platform built with **React, TypeScript, and Go**. Automated CI/CD pipeline with GitHub Actions deploying to AWS App Runner for zero-downtime releases, containerized with Docker, Redis caching, and Prometheus/Grafana monitoring.
